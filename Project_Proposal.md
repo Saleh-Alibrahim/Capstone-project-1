@@ -16,7 +16,8 @@ Lorem ipsum dolor sit amet. Non nihil consectetur aut iste tempora At officia co
 1. At least 10 endpoints
 2. At least 3 table relationships
 3. Include all CRUD operations (Create, Read, Update, Delete)
-4. Hosted on heroku
+4. Login & register
+5. Hosted on heroku
 
 
 ## Dependancies:
