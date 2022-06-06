@@ -29,9 +29,16 @@ Lorem ipsum dolor sit amet. Non nihil consectetur aut iste tempora At officia co
 6. MySQL
 
 
+## **Submission:**
+1. Make a repository on your github account and add a markdown file with all your project introduction, class diagram, Heroku link and your project details
+2. Add your project files to the repository
+3. Add your endpoints documentation
+
+
 ## **Important note:**
 1. Controller layer
 2. Service layer
 3. Repository layer
 4. Advice layer 
+
 
